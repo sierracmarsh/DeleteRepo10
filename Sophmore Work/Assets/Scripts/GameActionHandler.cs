@@ -14,7 +14,7 @@ public class GameActionHandler : MonoBehaviour
 
     private void Action()
     {
-        handlerEvent.Invoke();s
+        handlerEvent.Invoke();
     }
     
 }
