@@ -11,6 +11,7 @@
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="ImageController.cs" t="Include" />
+          <e p="PowerBooster.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
         </e>
       </e>
