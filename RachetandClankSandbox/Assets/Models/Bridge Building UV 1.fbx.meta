@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: dfba5ce8c3e15064fa2466968a8830ae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group29_pasted__pCube1
+    100004: group30
+    100006: group31
+    100008: group32
+    100010: group34
+    100012: group35
+    100014: group36
+    100016: group37
+    100018: group38
+    100020: group39
+    100022: pasted__group29_pasted__pCube1
+    100024: pasted__group29_pasted__pCube1 1
+    100026: pasted__group29_pasted__pCube1 2
+    100028: pasted__group31
+    100030: pasted__group37
+    100032: pasted__group38
+    100034: pasted__pasted__group37
+    100036: pasted__pasted__pasted__pCylinder16
+    100038: pasted__pasted__pCylinder16
+    100040: pasted__pasted__pTorus3
+    100042: pasted__pCylinder14
+    100044: pasted__pCylinder16
+    100046: pasted__pTorus3
+    100048: pCylinder13
+    100050: pCylinder15
+    100052: pCylinder16
+    400000: //RootNode
+    400002: group29_pasted__pCube1
+    400004: group30
+    400006: group31
+    400008: group32
+    400010: group34
+    400012: group35
+    400014: group36
+    400016: group37
+    400018: group38
+    400020: group39
+    400022: pasted__group29_pasted__pCube1
+    400024: pasted__group29_pasted__pCube1 1
+    400026: pasted__group29_pasted__pCube1 2
+    400028: pasted__group31
+    400030: pasted__group37
+    400032: pasted__group38
+    400034: pasted__pasted__group37
+    400036: pasted__pasted__pasted__pCylinder16
+    400038: pasted__pasted__pCylinder16
+    400040: pasted__pasted__pTorus3
+    400042: pasted__pCylinder14
+    400044: pasted__pCylinder16
+    400046: pasted__pTorus3
+    400048: pCylinder13
+    400050: pCylinder15
+    400052: pCylinder16
+    2100000: Bridge_Building
+    2100002: BB_inside_rings
+    2100004: pasted__Glass_B_top
+    2100006: pasted__Glass2_B_antaana
+    2100008: pasted__GLass2_Globe
+    2100010: Bridge_Building_ring_1
+    2100012: pasted__Bridge_Building_ring_2
+    2100014: BB_Bracket_2
+    2100016: BB_nail
+    2100018: BB_Bracket_1
+    2100020: BB_Foot_1
+    2100022: BB_stand_wire
+    2100024: pasted__BB_Bracket_3
+    2100026: pasted__BB_nail1
+    2100028: pasted__BB_Bracket_2
+    2100030: pasted__BB_Foot_2
+    2100032: pasted__BB_stand_wire1
+    2100034: pasted__BB_Bracket_5
+    2100036: pasted__BB_nail2
+    2100038: pasted__BB_Bracket_4
+    2100040: pasted__BB_Foot_3
+    2100042: pasted__BB_stand_wire2
+    2100044: pasted__BB_Bracket_7
+    2100046: pasted__BB_nail3
+    2100048: pasted__BB_Bracket_6
+    2100050: pasted__BB_Foot_4
+    2100052: pasted__BB_stand_wire3
+    2100054: BB_Tube
+    2100056: BB_Tube_ring_1
+    2100058: pasted__BB_Tube_ring_2
+    2100060: pasted__pasted__BB_Tube_ring_3
+    2100062: pasted__pasted__pasted__BB_Tube_ring_3
+    2300000: group29_pasted__pCube1
+    2300002: pasted__group29_pasted__pCube1
+    2300004: pasted__group29_pasted__pCube1 1
+    2300006: pasted__group29_pasted__pCube1 2
+    2300008: pasted__pasted__pasted__pCylinder16
+    2300010: pasted__pasted__pCylinder16
+    2300012: pasted__pasted__pTorus3
+    2300014: pasted__pCylinder14
+    2300016: pasted__pCylinder16
+    2300018: pasted__pTorus3
+    2300020: pCylinder13
+    2300022: pCylinder15
+    2300024: pCylinder16
+    3300000: group29_pasted__pCube1
+    3300002: pasted__group29_pasted__pCube1
+    3300004: pasted__group29_pasted__pCube1 1
+    3300006: pasted__group29_pasted__pCube1 2
+    3300008: pasted__pasted__pasted__pCylinder16
+    3300010: pasted__pasted__pCylinder16
+    3300012: pasted__pasted__pTorus3
+    3300014: pasted__pCylinder14
+    3300016: pasted__pCylinder16
+    3300018: pasted__pTorus3
+    3300020: pCylinder13
+    3300022: pCylinder15
+    3300024: pCylinder16
+    4300000: pCylinder13
+    4300002: pasted__pCylinder14
+    4300004: pasted__pTorus3
+    4300006: pasted__pasted__pTorus3
+    4300008: group29_pasted__pCube1
+    4300010: pasted__group29_pasted__pCube1
+    4300012: pasted__group29_pasted__pCube1
+    4300014: pasted__group29_pasted__pCube1
+    4300016: pCylinder15
+    4300018: pCylinder16
+    4300020: pasted__pCylinder16
+    4300022: pasted__pasted__pCylinder16
+    4300024: pasted__pasted__pasted__pCylinder16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

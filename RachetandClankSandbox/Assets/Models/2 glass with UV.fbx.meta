@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 8d42ef7c2b8b428499512d910cb1872e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group
+    100004: group1
+    100006: group10
+    100008: group11
+    100010: group14
+    100012: group15
+    100014: group16
+    100016: group17
+    100018: group18
+    100020: group8
+    100022: pasted__group
+    100024: pasted__group10
+    100026: pasted__group13
+    100028: pasted__group14
+    100030: pasted__group16
+    100032: pasted__group7
+    100034: pasted__group8
+    100036: pasted__group8 1
+    100038: pasted__pasted__group13
+    100040: pasted__pasted__group7
+    100042: pasted__pasted__group7 1
+    100044: pasted__pasted__group8
+    100046: pasted__pasted__pasted__group7
+    100048: pasted__pasted__pasted__pasted__pCube3
+    100050: pasted__pasted__pasted__pCube3
+    100052: pasted__pasted__pasted__pCube3 1
+    100054: pasted__pasted__pasted__pHelix2
+    100056: pasted__pasted__pCube3
+    100058: pasted__pasted__pCylinder2
+    100060: pasted__pasted__pCylinder7
+    100062: pasted__pasted__pHelix1
+    100064: pasted__pasted__pHelix2
+    100066: pasted__pasted__pHelix2 1
+    100068: pasted__pCylinder1
+    100070: pasted__pCylinder2
+    100072: pasted__pCylinder7
+    100074: pasted__pHelix1
+    100076: pasted__pHelix2
+    100078: pCylinder1
+    100080: pCylinder14
+    100082: pCylinder2
+    100084: pCylinder3
+    100086: pCylinder6
+    100088: pCylinder7
+    100090: pHelix1
+    100092: polySurface2
+    100094: pTorus2
+    400000: //RootNode
+    400002: group
+    400004: group1
+    400006: group10
+    400008: group11
+    400010: group14
+    400012: group15
+    400014: group16
+    400016: group17
+    400018: group18
+    400020: group8
+    400022: pasted__group
+    400024: pasted__group10
+    400026: pasted__group13
+    400028: pasted__group14
+    400030: pasted__group16
+    400032: pasted__group7
+    400034: pasted__group8
+    400036: pasted__group8 1
+    400038: pasted__pasted__group13
+    400040: pasted__pasted__group7
+    400042: pasted__pasted__group7 1
+    400044: pasted__pasted__group8
+    400046: pasted__pasted__pasted__group7
+    400048: pasted__pasted__pasted__pasted__pCube3
+    400050: pasted__pasted__pasted__pCube3
+    400052: pasted__pasted__pasted__pCube3 1
+    400054: pasted__pasted__pasted__pHelix2
+    400056: pasted__pasted__pCube3
+    400058: pasted__pasted__pCylinder2
+    400060: pasted__pasted__pCylinder7
+    400062: pasted__pasted__pHelix1
+    400064: pasted__pasted__pHelix2
+    400066: pasted__pasted__pHelix2 1
+    400068: pasted__pCylinder1
+    400070: pasted__pCylinder2
+    400072: pasted__pCylinder7
+    400074: pasted__pHelix1
+    400076: pasted__pHelix2
+    400078: pCylinder1
+    400080: pCylinder14
+    400082: pCylinder2
+    400084: pCylinder3
+    400086: pCylinder6
+    400088: pCylinder7
+    400090: pHelix1
+    400092: polySurface2
+    400094: pTorus2
+    2100000: Glass_B_bottom_glass
+    2100002: Glass2_bottom_top_glass
+    2100004: Glass_2_bottom_cap
+    2100006: GLassB__top_Glass
+    2100008: GLass2B_top_Bottom_cap
+    2100010: Glass2_Middle_bar
+    2100012: Glass2_buttriss_1
+    2100014: GLass_2_ground_pillar
+    2100016: GLass_2_top_ring
+    2100018: Glass2_bttom_top_ring
+    2100020: Glass2_bottom_bottom_ring
+    2100022: Glass_2_Bwire1
+    2100024: Glass_2_wire_c
+    2100026: Glass_2_wireB2
+    2100028: Glass2B_top_cap
+    2100030: pasted__Glass_2_Bwire1
+    2100032: pasted__Glass_2_wire_c
+    2100034: pasted__Glass_2_wireB2
+    2100036: pasted__Glass2_buttriss_1
+    2100038: pasted__pasted__Glass2_buttriss_1
+    2100040: pasted__Glass2_buttriss_2
+    2100042: Glass2_coil
+    2100044: Glass_B_top
+    2100046: Glass2_B_antaana
+    2100048: GLass2_Globe
+    2300000: pasted__pasted__pasted__pasted__pCube3
+    2300002: pasted__pasted__pasted__pCube3
+    2300004: pasted__pasted__pasted__pCube3 1
+    2300006: pasted__pasted__pasted__pHelix2
+    2300008: pasted__pasted__pCube3
+    2300010: pasted__pasted__pCylinder2
+    2300012: pasted__pasted__pCylinder7
+    2300014: pasted__pasted__pHelix1
+    2300016: pasted__pasted__pHelix2
+    2300018: pasted__pasted__pHelix2 1
+    2300020: pasted__pCylinder1
+    2300022: pasted__pCylinder2
+    2300024: pasted__pCylinder7
+    2300026: pasted__pHelix1
+    2300028: pasted__pHelix2
+    2300030: pCylinder1
+    2300032: pCylinder14
+    2300034: pCylinder2
+    2300036: pCylinder3
+    2300038: pCylinder6
+    2300040: pCylinder7
+    2300042: pHelix1
+    2300044: polySurface2
+    3300000: pasted__pasted__pasted__pasted__pCube3
+    3300002: pasted__pasted__pasted__pCube3
+    3300004: pasted__pasted__pasted__pCube3 1
+    3300006: pasted__pasted__pasted__pHelix2
+    3300008: pasted__pasted__pCube3
+    3300010: pasted__pasted__pCylinder2
+    3300012: pasted__pasted__pCylinder7
+    3300014: pasted__pasted__pHelix1
+    3300016: pasted__pasted__pHelix2
+    3300018: pasted__pasted__pHelix2 1
+    3300020: pasted__pCylinder1
+    3300022: pasted__pCylinder2
+    3300024: pasted__pCylinder7
+    3300026: pasted__pHelix1
+    3300028: pasted__pHelix2
+    3300030: pCylinder1
+    3300032: pCylinder14
+    3300034: pCylinder2
+    3300036: pCylinder3
+    3300038: pCylinder6
+    3300040: pCylinder7
+    3300042: pHelix1
+    3300044: polySurface2
+    4300000: pCylinder1
+    4300002: pCylinder2
+    4300004: pasted__pCylinder2
+    4300006: pasted__pCylinder1
+    4300008: pasted__pasted__pCylinder2
+    4300010: pCylinder3
+    4300012: pasted__pasted__pCube3
+    4300014: pCylinder6
+    4300016: pCylinder7
+    4300018: pasted__pCylinder7
+    4300020: pasted__pasted__pCylinder7
+    4300022: pasted__pHelix1
+    4300024: pasted__pHelix2
+    4300026: pasted__pasted__pHelix2
+    4300028: polySurface2
+    4300030: pasted__pasted__pHelix1
+    4300032: pasted__pasted__pHelix2
+    4300034: pasted__pasted__pasted__pHelix2
+    4300036: pasted__pasted__pasted__pCube3
+    4300038: pasted__pasted__pasted__pasted__pCube3
+    4300040: pasted__pasted__pasted__pCube3
+    4300042: pHelix1
+    4300044: pCylinder14
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
