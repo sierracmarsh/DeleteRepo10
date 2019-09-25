@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 44047c143f609344b9665ce15cfbaf4a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Evelyn Front
+    21300002: Evelyn Side Torso
+    21300004: Side Evelyn Arm
+    21300006: Evelyn Side Front Leg
+    21300008: Evelyn side back leg
+    21300010: wand
+    21300012: Front Crown
+    21300014: Crown Side
+    21300016: C60C6D5E-5393-4AEC-9CF8-EC98C752F7AD_0
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evelyn Front
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1068
+        width: 695
+        height: 1316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -309.5, y: 29}
+        - {x: -294.5, y: 65}
+        - {x: -276.5, y: 94}
+        - {x: -251.5, y: 125}
+        - {x: -229.5, y: 170}
+        - {x: -172.5, y: 313}
+        - {x: -155.5, y: 354}
+        - {x: -163.5, y: 390}
+        - {x: -161.5, y: 424}
+        - {x: -131.5, y: 492}
+        - {x: -101.5, y: 525}
+        - {x: -73.5, y: 537}
+        - {x: -44.5, y: 544}
+        - {x: -12.5, y: 541}
+        - {x: 48.5, y: 546}
+        - {x: 79.5, y: 544}
+        - {x: 118.5, y: 529}
+        - {x: 152.5, y: 502}
+        - {x: 164.5, y: 467}
+        - {x: 184.5, y: 456}
+        - {x: 212.5, y: 404}
+        - {x: 201.5, y: 381}
+        - {x: 173.5, y: 368}
+        - {x: 176.5, y: 334}
+        - {x: 184.5, y: 303}
+        - {x: 181.5, y: 277}
+        - {x: 194.5, y: 242}
+        - {x: 314.5, y: 74}
+        - {x: 331.5, y: 34}
+        - {x: 323.5, y: -5}
+        - {x: 295.5, y: -37}
+        - {x: 279.5, y: -48}
+        - {x: 270.5, y: -93}
+        - {x: 248.5, y: -128}
+        - {x: 208.5, y: -152}
+        - {x: 207.5, y: -191}
+        - {x: 233.5, y: -291}
+        - {x: 247.5, y: -366}
+        - {x: 238.5, y: -411}
+        - {x: 212.5, y: -414}
+        - {x: 179.5, y: -403}
+        - {x: 154.5, y: -411}
+        - {x: 136.5, y: -409}
+        - {x: 132.5, y: -450}
+        - {x: 139.5, y: -463}
+        - {x: 131.5, y: -473}
+        - {x: 130.5, y: -504}
+        - {x: 147.5, y: -521}
+        - {x: 146.5, y: -552}
+        - {x: 141.5, y: -567}
+        - {x: 107.5, y: -572}
+        - {x: 67.5, y: -562}
+        - {x: 66.5, y: -528}
+        - {x: 85.5, y: -514}
+        - {x: 87.5, y: -483}
+        - {x: 83.5, y: -462}
+        - {x: 88.5, y: -455}
+        - {x: 91.5, y: -417}
+        - {x: 66.5, y: -422}
+        - {x: 35.5, y: -432}
+        - {x: 8.5, y: -427}
+        - {x: 1.5, y: -468}
+        - {x: 8.5, y: -474}
+        - {x: 2.5, y: -493}
+        - {x: 2.5, y: -515}
+        - {x: 23.5, y: -519}
+        - {x: 37.5, y: -539}
+        - {x: 29.5, y: -559}
+        - {x: 15.5, y: -574}
+        - {x: -9.5, y: -576}
+        - {x: -34.5, y: -574}
+        - {x: -54.5, y: -567}
+        - {x: -62.5, y: -543}
+        - {x: -62.5, y: -529}
+        - {x: -46.5, y: -517}
+        - {x: -46.5, y: -502}
+        - {x: -54.5, y: -483}
+        - {x: -55.5, y: -473}
+        - {x: -45.5, y: -466}
+        - {x: -43.5, y: -418}
+        - {x: -86.5, y: -413}
+        - {x: -124.5, y: -408}
+        - {x: -158.5, y: -394}
+        - {x: -146.5, y: -302}
+        - {x: -138.5, y: -259}
+        - {x: -127.5, y: -212}
+        - {x: -118.5, y: -197}
+        - {x: -141.5, y: -197}
+        - {x: -161.5, y: -185}
+        - {x: -175.5, y: -164}
+        - {x: -201.5, y: -162}
+        - {x: -228.5, y: -149}
+        - {x: -245.5, y: -132}
+        - {x: -258.5, y: -108}
+        - {x: -264.5, y: -64}
+        - {x: -289.5, y: -53}
+        - {x: -309.5, y: -32}
+        - {x: -312.5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2567ad6075d795c44866b701b3cc3b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn Side Torso
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1312
+        width: 635
+        height: 1098
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 289.5, y: -412}
+        - {x: 304.5, y: -455}
+        - {x: 303.5, y: -477}
+        - {x: 282.5, y: -493}
+        - {x: 252.5, y: -494}
+        - {x: 230.5, y: -489}
+        - {x: 205.5, y: -487}
+        - {x: 185.5, y: -491}
+        - {x: 166.5, y: -498}
+        - {x: 149.5, y: -503}
+        - {x: 130.5, y: -516}
+        - {x: 106.5, y: -521}
+        - {x: 77.5, y: -521}
+        - {x: 50.5, y: -516}
+        - {x: 23.5, y: -509}
+        - {x: 2.5, y: -505}
+        - {x: -18.5, y: -512}
+        - {x: -45.5, y: -522}
+        - {x: -74.5, y: -536}
+        - {x: -94.5, y: -534}
+        - {x: -118.5, y: -528}
+        - {x: -132.5, y: -512}
+        - {x: -126.5, y: -470}
+        - {x: -111.5, y: -417}
+        - {x: -47.5, y: -246}
+        - {x: -67.5, y: -269}
+        - {x: -96.5, y: -291}
+        - {x: -117.5, y: -299}
+        - {x: -140.5, y: -299}
+        - {x: -161.5, y: -298}
+        - {x: -180.5, y: -288}
+        - {x: -203.5, y: -277}
+        - {x: -223.5, y: -253}
+        - {x: -234.5, y: -232}
+        - {x: -238.5, y: -214}
+        - {x: -234.5, y: -201}
+        - {x: -246.5, y: -193}
+        - {x: -260.5, y: -175}
+        - {x: -267.5, y: -148}
+        - {x: -270.5, y: -120}
+        - {x: -268.5, y: -90}
+        - {x: -259.5, y: -50}
+        - {x: -232.5, y: -16}
+        - {x: -202.5, y: 17}
+        - {x: -163.5, y: 59}
+        - {x: -126.5, y: 96}
+        - {x: -98.5, y: 138}
+        - {x: -81.5, y: 175}
+        - {x: -83.5, y: 228}
+        - {x: -89.5, y: 276}
+        - {x: -79.5, y: 318}
+        - {x: -60.5, y: 361}
+        - {x: -40.5, y: 390}
+        - {x: -16.5, y: 418}
+        - {x: 16.5, y: 437}
+        - {x: 137.5, y: 450}
+        - {x: 190.5, y: 436}
+        - {x: 208.5, y: 410}
+        - {x: 226.5, y: 409}
+        - {x: 283.5, y: 359}
+        - {x: 289.5, y: 332}
+        - {x: 277.5, y: 301}
+        - {x: 263.5, y: 287}
+        - {x: 244.5, y: 276}
+        - {x: 247.5, y: 218}
+        - {x: 245.5, y: 203}
+        - {x: 254.5, y: 201}
+        - {x: 260.5, y: 192}
+        - {x: 258.5, y: 180}
+        - {x: 251.5, y: 171}
+        - {x: 246.5, y: 171}
+        - {x: 244.5, y: 154}
+        - {x: 238.5, y: 130}
+        - {x: 219.5, y: 100}
+        - {x: 201.5, y: 82}
+        - {x: 188.5, y: 78}
+        - {x: 198.5, y: 54}
+        - {x: 218.5, y: 1}
+        - {x: 223.5, y: -36}
+        - {x: 223.5, y: -57}
+        - {x: 220.5, y: -75}
+        - {x: 220.5, y: -96}
+        - {x: 214.5, y: -112}
+        - {x: 208.5, y: -129}
+        - {x: 190.5, y: -143}
+        - {x: 199.5, y: -161}
+        - {x: 211.5, y: -190}
+        - {x: 218.5, y: -218}
+        - {x: 229.5, y: -250}
+        - {x: 241.5, y: -289}
+        - {x: 252.5, y: -315}
+        - {x: 265.5, y: -361}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74537c6bb6731b14e95c32954506900b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side Evelyn Arm
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1570
+        width: 211
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -188}
+        - {x: -11.5, y: -194}
+        - {x: -23.5, y: -196}
+        - {x: -31.5, y: -191}
+        - {x: -47.5, y: -193}
+        - {x: -54.5, y: -181}
+        - {x: -50.5, y: -162}
+        - {x: -41.5, y: -159}
+        - {x: -39.5, y: -138}
+        - {x: -33.5, y: 48}
+        - {x: -50.5, y: 53}
+        - {x: -65.5, y: 65}
+        - {x: -75.5, y: 79}
+        - {x: -79.5, y: 94}
+        - {x: -79.5, y: 110}
+        - {x: -75.5, y: 127}
+        - {x: -68.5, y: 140}
+        - {x: -42.5, y: 158}
+        - {x: -15.5, y: 166}
+        - {x: 12.5, y: 161}
+        - {x: 34.5, y: 145}
+        - {x: 43.5, y: 120}
+        - {x: 45.5, y: 99}
+        - {x: 36.5, y: 79}
+        - {x: 16.5, y: 59}
+        - {x: 6.5, y: 54}
+        - {x: 7.5, y: -176}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc888f2726583e345a95b71ee90a8a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn Side Front Leg
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1094
+        width: 146
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -85}
+        - {x: -2, y: -91}
+        - {x: -40, y: -92}
+        - {x: -60, y: -82}
+        - {x: -66, y: -75}
+        - {x: -66, y: -63}
+        - {x: -57, y: -43}
+        - {x: -55, y: -28}
+        - {x: -59, y: -11}
+        - {x: -64, y: 7}
+        - {x: -62, y: 19}
+        - {x: -57, y: 24}
+        - {x: -49, y: 97}
+        - {x: 15, y: 105}
+        - {x: 9, y: 29}
+        - {x: 15, y: 28}
+        - {x: 16, y: 19}
+        - {x: 3, y: -17}
+        - {x: -1, y: -33}
+        - {x: 26, y: -25}
+        - {x: 37, y: -20}
+        - {x: 51, y: -21}
+        - {x: 60, y: -27}
+        - {x: 71, y: -50}
+        - {x: 65, y: -72}
+        - {x: 51, y: -84}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea021622c0cd4459a3b4c4ec576b62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evelyn side back leg
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1183
+        width: 133
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -97.5}
+        - {x: -34.5, y: -93.5}
+        - {x: -47.5, y: -85.5}
+        - {x: -43.5, y: -52.5}
+        - {x: -39.5, y: -40.5}
+        - {x: -42.5, y: -23.5}
+        - {x: -47.5, y: -3.5}
+        - {x: -40.5, y: 4.5}
+        - {x: -37.5, y: 8.5}
+        - {x: -34.5, y: 70.5}
+        - {x: 19.5, y: 73.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 21.5, y: 4.5}
+        - {x: 6.5, y: -41.5}
+        - {x: 25.5, y: -40.5}
+        - {x: 38.5, y: -32.5}
+        - {x: 53.5, y: -36.5}
+        - {x: 64.5, y: -46.5}
+        - {x: 64.5, y: -70.5}
+        - {x: 57.5, y: -85.5}
+        - {x: 45.5, y: -90.5}
+        - {x: 25.5, y: -92.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68b10324ae632848b6faf9e3ac84db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wand
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1359
+        width: 480
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 86, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: -341.5}
+        - {x: -42, y: 93.5}
+        - {x: -115, y: 51.5}
+        - {x: -81, y: 157.5}
+        - {x: -177, y: 177.5}
+        - {x: -59, y: 215.5}
+        - {x: -2, y: 317.5}
+        - {x: 17, y: 213.5}
+        - {x: 116, y: 124.5}
+        - {x: 32, y: 140.5}
+        - {x: 32, y: 33.5}
+        - {x: -19, y: 91.5}
+        - {x: -64, y: -356.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21326d661f15fde48b39db0b8403a6b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front Crown
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2260
+        width: 470
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158, y: -68}
+        - {x: 133, y: -79}
+        - {x: 92, y: -90}
+        - {x: 45, y: -94}
+        - {x: -3, y: -91}
+        - {x: -58, y: -89}
+        - {x: -106, y: -83}
+        - {x: -143, y: -72}
+        - {x: -183, y: -57}
+        - {x: -155, y: -35}
+        - {x: -104, y: 46}
+        - {x: -57, y: -26}
+        - {x: 2, y: 84}
+        - {x: 57, y: -32}
+        - {x: 106, y: 56}
+        - {x: 154, y: -29}
+        - {x: 166, y: -32}
+        - {x: 175, y: -30}
+        - {x: 186, y: -33}
+        - {x: 179, y: -53}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6aa70cd26eb0c4dbc73b15f9ae9567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown Side
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2247
+        width: 258
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9063d95ff6a84a9f939846df60524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C60C6D5E-5393-4AEC-9CF8-EC98C752F7AD_0
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1233
+        width: 201
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf462f3ab449c0049b5623a019febda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8333006b3e3cdaa41a721415489833de
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
