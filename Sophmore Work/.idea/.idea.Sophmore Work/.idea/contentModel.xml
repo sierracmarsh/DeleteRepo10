@@ -32,6 +32,7 @@
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="CodeRoutine.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
