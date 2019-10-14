@@ -2,16 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
-public class CharacterMover : MonoBehaviour
+{CreateAsseatMenu}
+public class CharacterMover : ScriptableObject
 {
     public float movespeed = 10f, jumpspeed = 30f, gravity = -3f;
     private CharacterController controller;
     private Vector3 position;
     public IntData jumpData;
-    void Start()
-    {
-        controller = GetComponent<CharacterController>();
-    }
+  
 
     // Update is called once per frame
     void Update()
