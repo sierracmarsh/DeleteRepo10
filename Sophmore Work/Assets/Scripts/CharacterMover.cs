@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-[RequireComponent(typeof(CharacterController))]
-{CreateAsseatMenu}
-public class CharacterMover : ScriptableObject
+
+public class CharacterMover : MonoBehaviour
 {
     public float movespeed = 10f, jumpspeed = 30f, gravity = -3f;
     private CharacterController controller;

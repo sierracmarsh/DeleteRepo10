@@ -7,6 +7,7 @@ using UnityEngine.Events;
 public class GameAction : ScriptableObject
 {
   public UnityAction action;
+  public UnityAction
 
   public void Raise()
   {
