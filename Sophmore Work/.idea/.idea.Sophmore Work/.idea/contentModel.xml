@@ -44,6 +44,7 @@
           <e p="MouseEvents.cs" t="Include" />
           <e p="PowerBooster.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="Vector3Data.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
