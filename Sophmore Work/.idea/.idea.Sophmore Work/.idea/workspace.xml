@@ -18,8 +18,10 @@
     <setting file="file://$PROJECT_DIR$/../Kings Game/Assets/IntData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/Powerup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -27,6 +29,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerBooster.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventListing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventLister.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -47,11 +51,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Debug.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateSOData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EventListing.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Instancer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/DoDamage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/Powerup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventListing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventLister.cs" />
       </list>
     </option>
   </component>

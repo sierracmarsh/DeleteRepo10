@@ -40,10 +40,16 @@
           <e p="ImageController.cs" t="Include" />
           <e p="Instancer.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="Interface.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="Powerup.cs" t="Include" />
+          </e>
           <e p="MonobEHAVE.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="PowerBooster.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="TriggerEventLister.cs" t="Include" />
           <e p="Vector3Data.cs" t="Include" />
         </e>
       </e>
