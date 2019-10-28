@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\10617333\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -31,6 +31,7 @@
         </e>
         <e p="CharacterMover.cs" t="Include" />
         <e p="IntData.cs" t="Include" />
+        <e p="LevelControl.cs" t="Include" />
         <e p="TriggerEventBehavior.cs" t="Include" />
       </e>
       <e p="Kings Game.sln" t="IncludeFlat" />

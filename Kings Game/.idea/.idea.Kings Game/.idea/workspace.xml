@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEventBehavior.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IntData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LevelControl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +23,7 @@
         <option value="$PROJECT_DIR$/Assets/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/TriggerEventBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelControl.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +78,7 @@
       <workItem from="1569441793010" duration="252000" />
       <workItem from="1569442558692" duration="771000" />
       <workItem from="1570642970423" duration="2397000" />
+      <workItem from="1572292934060" duration="1500000" />
     </task>
     <servers />
   </component>
