@@ -29,10 +29,23 @@
             </e>
           </e>
         </e>
-        <e p="CharacterMover.cs" t="Include" />
-        <e p="IntData.cs" t="Include" />
-        <e p="LevelControl.cs" t="Include" />
-        <e p="TriggerEventBehavior.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="ActionCalls.cs" t="Include" />
+          <e p="CharacterMover.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="Game Action Handler.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
+          <e p="ImageControler.cs" t="Include" />
+          <e p="Instancer.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
+          <e p="Interface.cs" t="Include" />
+          <e p="LevelControl.cs" t="Include" />
+          <e p="MouseEvents.cs" t="Include" />
+          <e p="MoveController.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="Powerbooster.cs" t="Include" />
+          <e p="TriggerEventBehavior.cs" t="Include" />
+        </e>
       </e>
       <e p="Kings Game.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
