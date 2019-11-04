@@ -9,7 +9,8 @@ public class MoveLRarrows : ScriptableObject, IMove
 
     public void Move(CharacterController controller)
     {
-        newLoc.x = Input.GetAxis("Horizontal"), newY: 0, newZ: 0;
+        newLoc.x = Input.GetAxis("Horizontal"); newY:
+        0; newZ: 0;
             controller.Move(location);
             
     }

@@ -134,6 +134,7 @@
       <workItem from="1571253219749" duration="4208000" />
       <workItem from="1571859176987" duration="4433000" />
       <workItem from="1572659305151" duration="1091000" />
+      <workItem from="1572898451966" duration="645000" />
     </task>
     <servers />
   </component>
@@ -173,6 +174,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveLRarrows.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Interfaces/MoveLRarrows.cs" initialLine="15">
+            <startOffsets>
+              <option value="410" />
+            </startOffsets>
+            <endOffsets>
+              <option value="411" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
