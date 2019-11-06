@@ -41,10 +41,11 @@
           <e p="Instancer.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="Interfaces" t="Include">
+            <e p="CharacterBahvior.cs" t="Include" />
+            <e p="FlipCharacter.cs" t="Include" />
             <e p="Interface.cs" t="Include" />
             <e p="MoveController.cs" t="Include" />
             <e p="MoveHVarrows.cs" t="Include" />
-            <e p="MoveLRarrows.cs" t="Include" />
             <e p="PlayerHealth.cs" t="Include" />
             <e p="Powerup.cs" t="Include" />
           </e>
