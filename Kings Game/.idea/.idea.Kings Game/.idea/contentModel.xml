@@ -31,6 +31,8 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
+          <e p="CharacterBase.cs" t="Include" />
+          <e p="CharacterHold.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Game Action Handler.cs" t="Include" />
