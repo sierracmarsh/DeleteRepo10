@@ -41,6 +41,9 @@
           <e p="Instancer.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="Interface.cs" t="Include" />
+          <e p="ItemCollection.cs" t="Include" />
+          <e p="ItemPowerup.cs" t="Include" />
+          <e p="Items.cs" t="Include" />
           <e p="LevelControl.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="MoveController.cs" t="Include" />
