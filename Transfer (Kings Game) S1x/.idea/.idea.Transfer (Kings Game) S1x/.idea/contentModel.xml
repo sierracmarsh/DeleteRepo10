@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10617333\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10617333\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Transfer (Kings Game) S1x.-408889622.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10617333\Desktop\Kraken\Romrell2019\Transfer (Kings Game) S1x" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DeAmmo.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="BarChange.cs" t="Include" />
+          <e p="Collections.cs" t="Include" />
+          <e p="Death.cs" t="Include" />
+          <e p="DeathWheelEvent.cs" t="Include" />
+          <e p="EnemyUIMove.cs" t="Include" />
+          <e p="Flip.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="Forces.cs" t="Include" />
+          <e p="GroundFall.cs" t="Include" />
+          <e p="GroundTrap.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
+          <e p="HealthP.cs" t="Include" />
+          <e p="KillObject.cs" t="Include" />
+          <e p="Liar.cs" t="Include" />
+          <e p="MainCharacterMisc.cs" t="Include" />
+          <e p="MainMove.cs" t="Include" />
+          <e p="MonoEvents.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="PowerRange.cs" t="Include" />
+          <e p="Return.cs" t="Include" />
+          <e p="Sunset.cs" t="Include" />
+          <e p="SwitchEvent.cs" t="Include" />
+          <e p="WandAmmo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Transfer (Kings Game) S1x.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
