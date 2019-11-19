@@ -51,6 +51,12 @@
           <e p="Powerbooster.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
         </e>
+        <e p="Tools and Weapons" t="Include">
+          <e p="Ammo Handler.cs" t="Include" />
+          <e p="WeaponConfig.cs" t="Include" />
+          <e p="WeaponHandler.cs" t="Include" />
+          <e p="WeaponTriggerHandler.cs" t="Include" />
+        </e>
       </e>
       <e p="Kings Game.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />

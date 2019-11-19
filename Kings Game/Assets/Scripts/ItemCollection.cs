@@ -24,7 +24,7 @@ public class ItemCollection : MonoBehaviour
 	public void UseCoinWithValue()
 	{
 		var number = 5;
-		for (var i = 0; i < ItemList[i]) ;
+		for (var i = 0; i < ItemList[i];) ;
 		if (ItemList.value > number)
 		{
 			Item.Take();

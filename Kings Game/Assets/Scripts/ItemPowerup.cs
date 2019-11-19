@@ -6,11 +6,11 @@ using UnityEngine;
 public class ItemPowerup : MonoBehaviour
 {
 
-	public int ItemPowerup = UpdateValue;
+	public int Item = UpdateValue;
 	public GameAction UpdateItem;
 
 	private void OnTriggerEnter(Collider other)
 	{
-		UpdateItem.Raise(ItemPowerup);
+		UpdateItem.Raise(Item);
 	}
 }

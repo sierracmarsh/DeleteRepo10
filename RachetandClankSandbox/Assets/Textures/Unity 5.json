@@ -33,85 +33,94 @@
         }
     },
     "texturesets": {
-        "Wall_Hoop": {
+        "AnkleRight": {
             "shader": "Main shader"
         },
-        "Wall_Stand": {
+        "ArmBeltLEft": {
             "shader": "Main shader"
         },
-        "Wall_UV_Mapped": {
+        "ArmBeltRight": {
             "shader": "Main shader"
         },
-        "pasted__Wall_Hoop": {
+        "Belt": {
             "shader": "Main shader"
         },
-        "pasted__Wall_Stand": {
+        "ChestClasp": {
             "shader": "Main shader"
         },
-        "pasted__pasted__Wall_Hoop": {
+        "ChestClaspLeather": {
             "shader": "Main shader"
         },
-        "pasted__pasted__Wall_Stand": {
+        "Clasp2": {
             "shader": "Main shader"
         },
-        "pasted__pasted__Wall_Stand1": {
+        "EarRight": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__Wall_Hoop": {
+        "Head": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__Wall_Stand": {
+        "LEftfoot": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__Wall_Stand1": {
+        "LEyeBrow": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "LeftArm": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__Wall_Stand": {
+        "LeftBrow": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "LeftEar": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__Wall_Stand": {
+        "LeftGlove": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "Leye": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop1": {
+        "Neck": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "Nose": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop1": {
+        "Pants": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "REyeBrow": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop1": {
+        "Reye": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "RightArm": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop1": {
+        "RightFoot": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "RightGlove": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop1": {
+        "Tail": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop": {
+        "Torso": {
             "shader": "Main shader"
         },
-        "pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Wall_Hoop1": {
+        "ankle": {
+            "shader": "Main shader"
+        },
+        "claws": {
+            "shader": "Main shader"
+        },
+        "lambert1": {
+            "shader": "Main shader"
+        },
+        "lambert26": {
             "shader": "Main shader"
         }
     }

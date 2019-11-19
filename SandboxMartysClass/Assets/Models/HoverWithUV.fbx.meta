@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 7e7cdf746dff7844aac2d5997b7aab46
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group
+    100002: group4
+    100004: group5
+    100006: group6
+    100008: //RootNode
+    100010: pasted__pCylinder6
+    100012: pasted__pCylinder6 1
+    100014: pasted__pCylinder6 2
+    100016: pasted__pCylinder6 3
+    100018: pasted__polySurface6
+    100020: pasted__polySurface8
+    100022: pasted__polySurface9
+    100024: pasted__polySurface9 1
+    100026: pCylinder6
+    100028: polySurface1
+    100030: polySurface2
+    100032: polySurface3
+    100034: polySurface4
+    100036: polySurface6
+    100038: polySurface8
+    100040: polySurface9
+    400000: group
+    400002: group4
+    400004: group5
+    400006: group6
+    400008: //RootNode
+    400010: pasted__pCylinder6
+    400012: pasted__pCylinder6 1
+    400014: pasted__pCylinder6 2
+    400016: pasted__pCylinder6 3
+    400018: pasted__polySurface6
+    400020: pasted__polySurface8
+    400022: pasted__polySurface9
+    400024: pasted__polySurface9 1
+    400026: pCylinder6
+    400028: polySurface1
+    400030: polySurface2
+    400032: polySurface3
+    400034: polySurface4
+    400036: polySurface6
+    400038: polySurface8
+    400040: polySurface9
+    2100000: HoverRocketMIddel
+    2100002: HoverboardMiddle
+    2100004: HoverMiddeltube
+    2100006: HoveRwING2
+    2100008: HoverWing2
+    2100010: HoverRingBrace
+    2100012: HoverRocketOuter
+    2100014: HoverRocketInner
+    2100016: HoverRocketRocket
+    2100018: HoverFlatRim
+    2100020: HoverFlat
+    2100022: HoverFlatPattern
+    2100024: HoverFlatRing
+    2100026: pasted__HoverFlatRim
+    2100028: pasted__HoverFlat
+    2100030: pasted__HoverFlatPattern
+    2100032: pasted__HoverFlatRing
+    2100034: pasted__HoverFlatRim1
+    2100036: pasted__HoverFlat1
+    2100038: pasted__HoverFlatPattern1
+    2100040: pasted__HoverFlatRing1
+    2100042: pasted__HoverRocketOuter
+    2100044: pasted__HoverRocketInner
+    2100046: pasted__HoverRocketRocket
+    2100048: pasted__HoverRingBrace
+    2300000: pasted__polySurface6
+    2300002: pasted__polySurface8
+    2300004: pasted__polySurface9
+    2300006: pasted__polySurface9 1
+    2300008: polySurface1
+    2300010: polySurface2
+    2300012: polySurface3
+    2300014: polySurface4
+    2300016: polySurface6
+    2300018: polySurface8
+    2300020: polySurface9
+    3300000: pasted__polySurface6
+    3300002: pasted__polySurface8
+    3300004: pasted__polySurface9
+    3300006: pasted__polySurface9 1
+    3300008: polySurface1
+    3300010: polySurface2
+    3300012: polySurface3
+    3300014: polySurface4
+    3300016: polySurface6
+    3300018: polySurface8
+    3300020: polySurface9
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface6
+    4300010: polySurface8
+    4300012: polySurface9
+    4300014: pasted__polySurface9
+    4300016: pasted__polySurface9
+    4300018: pasted__polySurface8
+    4300020: pasted__polySurface6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

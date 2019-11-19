@@ -11,7 +11,7 @@ public class Items : ScriptableObject
 
     public void TakeItem()
     {
-        ItemAction?.Invoke(value);
+        ItemAction.Invoke(value);
     }
 
 }
