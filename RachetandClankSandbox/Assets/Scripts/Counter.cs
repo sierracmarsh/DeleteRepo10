@@ -19,7 +19,7 @@ public class Counter : MonoBehaviour
 	{
 		float c = Time.time - startnumb;
 		string minutes = ((int) c / 60).ToString();
-		string seconds = (c % 60).ToString();
+		string seconds = (c % 60).ToString("f2");
 		counter.text = minutes + ":" + seconds;
 	}
 }
