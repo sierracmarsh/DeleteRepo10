@@ -13,6 +13,6 @@ public class WeaponConfig : ScriptableObject
 
 	public void RaiseFireAction()
 	{
-		weaponFireAction?.Invoke();
+	
 	}
 }

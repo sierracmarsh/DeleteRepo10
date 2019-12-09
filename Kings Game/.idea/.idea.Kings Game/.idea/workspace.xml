@@ -12,23 +12,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemCollection.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemPowerup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Sophmore Work/Assets/Scripts/GameAction.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tools and Weapons/WeaponConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powerbooster.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game Action Handler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Tools and Weapons/WeaponConfig.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tools and Weapons/WeaponHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Tools and Weapons/WeaponTriggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StorySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Sophmore Work/Assets/Scripts/GameAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game Action Handler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemCollection.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -38,7 +42,6 @@
         <option value="$PROJECT_DIR$/Assets/TriggerEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/LevelControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Instancer.cs" />
@@ -47,12 +50,18 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Game Action Handler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tools and Weapons/WeaponTriggerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tools and Weapons/WeaponConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageControler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ItemPowerup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Items.cs" />
         <option value="$PROJECT_DIR$/Assets/Tools and Weapons/WeaponHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Tools and Weapons/WeaponConfig.cs" />
-        <option value="$PROJECT_DIR$/Assets/Tools and Weapons/WeaponTriggerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Story.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StorySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pop.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +122,7 @@
       <workItem from="1573677355489" duration="3200000" />
       <workItem from="1574108716689" duration="3876000" />
       <workItem from="1574282767653" duration="613000" />
+      <workItem from="1575911144343" duration="8812000" />
     </task>
     <servers />
   </component>
@@ -140,6 +150,8 @@
   <component name="WindowStateProjectService">
     <state x="691" y="243" key="RiderGenerateDialog" />
     <state x="691" y="243" key="RiderGenerateDialog/1920.1080" />
+    <state x="708" y="317" width="672" height="678" key="search.everywhere.popup" />
+    <state x="708" y="317" width="672" height="678" key="search.everywhere.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
