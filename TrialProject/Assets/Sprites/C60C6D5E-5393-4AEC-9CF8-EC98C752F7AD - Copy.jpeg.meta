@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 85b69b78b58a6094388f4110e7fb7f9e
+guid: 4552bc60dd24b484cae0f88da98b8097
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: CDB7DD9B-C038-41E6-8940-A105E2E5B3F3_0
+  fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -21,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -41,17 +40,17 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
+  alignment: 9
+  spritePivot: {x: 0.54201263, y: 0.6486521}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 761, y: 1294, z: 718, w: 392}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0.12
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -83,31 +82,16 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: CDB7DD9B-C038-41E6-8940-A105E2E5B3F3_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2732
-        height: 2048
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 008c43f1213596140ab7dbc98e4c6c36
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    outline: []
+    sprites: []
+    outline:
+    - - {x: -258, y: -72}
+      - {x: -289, y: 1040}
+      - {x: 296, y: 927}
+      - {x: 265, y: 562}
+      - {x: 327, y: -65}
     physicsShape: []
     bones: []
-    spriteID: eac187b3cab846f409e849a80abfe634
+    spriteID: 7ccd1015104cf3640a7b9725be87dc97
     vertices: []
     indices: 
     edges: []

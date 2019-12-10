@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 85b69b78b58a6094388f4110e7fb7f9e
+guid: 56cb77d8d57c3a447ac0bbf97f2ad80a
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: CDB7DD9B-C038-41E6-8940-A105E2E5B3F3_0
+  fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -21,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -41,7 +40,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,7 +50,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -83,31 +82,60 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: CDB7DD9B-C038-41E6-8940-A105E2E5B3F3_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2732
-        height: 2048
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 008c43f1213596140ab7dbc98e4c6c36
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    outline: []
+    sprites: []
+    outline:
+    - - {x: 262, y: -447}
+      - {x: 263, y: -465}
+      - {x: 259, y: -492}
+      - {x: 248, y: -507}
+      - {x: 227, y: -517}
+      - {x: 169, y: -512}
+      - {x: -12, y: -484}
+      - {x: -239, y: -445}
+      - {x: -328, y: -439}
+      - {x: -365, y: -424}
+      - {x: -381, y: -429}
+      - {x: -364, y: -335}
+      - {x: -370, y: -329}
+      - {x: -385, y: -335}
+      - {x: -379, y: -323}
+      - {x: -376, y: -313}
+      - {x: -379, y: -299}
+      - {x: -388, y: -288}
+      - {x: -397, y: -279}
+      - {x: -361, y: -137}
+      - {x: -357, y: -131}
+      - {x: -356, y: 3}
+      - {x: -346, y: 12}
+      - {x: -348.0386, y: 97.11188}
+      - {x: -357, y: 104}
+      - {x: -352, y: 127}
+      - {x: -351, y: 143}
+      - {x: -348, y: 148}
+      - {x: -352, y: 197}
+      - {x: -359, y: 201}
+      - {x: -360, y: 302}
+      - {x: -351, y: 307}
+      - {x: -352, y: 342}
+      - {x: -313, y: 358}
+      - {x: -307, y: 449}
+      - {x: -252, y: 517}
+      - {x: 283, y: 495}
+      - {x: 330, y: 430}
+      - {x: 307, y: 373}
+      - {x: 387, y: 356}
+      - {x: 366, y: 326}
+      - {x: 362, y: 279}
+      - {x: 375, y: 270}
+      - {x: 372.17535, y: 235.54828}
+      - {x: 379, y: 231}
+      - {x: 304, y: -237}
+      - {x: 306.03522, y: -285.2347}
+      - {x: 292, y: -323}
+      - {x: 292, y: -416}
     physicsShape: []
     bones: []
-    spriteID: eac187b3cab846f409e849a80abfe634
+    spriteID: 327cff9affdeed344801057e5bf2d6b1
     vertices: []
     indices: 
     edges: []
