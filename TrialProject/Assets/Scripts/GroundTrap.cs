@@ -12,7 +12,7 @@ public class GroundTrap: MonoBehaviour
 
 	void OnTriggerEnter(Collider touch)
 	{
-		if (touch.gameObject.name == "MainCharacter_0")
+		if (touch.gameObject.name == "PlaceholderE")
 		{
 			away = true;
 			Destroy(gameObject, 10);

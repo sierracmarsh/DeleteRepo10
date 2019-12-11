@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10617333\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10617333\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_TrialProject.-1531897376.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10617333\Desktop\Kraken\Fall2019\Fall-2019\DeleteRepo10\TrialProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PBRMaterials" t="Include">
+          <e p="PBRWoodMaterials" t="Include">
+            <e p="Materials" t="Include">
+              <e p="GroundFall.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CharacterMover.cs" t="Include" />
+          <e p="Collection.cs" t="Include" />
+          <e p="GroundTrap.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
+          <e p="TrickStair.cs" t="Include" />
+          <e p="TriggerEventBehavior.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="TrialProject.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
