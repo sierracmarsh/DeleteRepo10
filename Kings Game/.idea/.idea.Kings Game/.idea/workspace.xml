@@ -12,14 +12,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../Sophmore Work/Assets/Scripts/GameAction.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickScene.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GroundTrap.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NextChapter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level3to4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChapterMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Sophmore Work/Assets/Scripts/GameAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NextChapter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GroundTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChapterMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level3to4.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -49,12 +49,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Story.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StorySystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pop.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GroundTrap.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClickScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NextChapter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChapterMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Level3to4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GroundTrap.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +120,7 @@
       <workItem from="1576029959920" duration="13000" />
       <workItem from="1576029975436" duration="2129000" />
       <workItem from="1576032425782" duration="3478000" />
+      <workItem from="1576096276613" duration="1016000" />
     </task>
     <servers />
   </component>

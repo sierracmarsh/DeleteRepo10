@@ -15,7 +15,7 @@ public class GroundTrap: MonoBehaviour
 		if (touch.gameObject.name == "Evelyn")
 		{
 			away = true;
-			Destroy(gameObject, 10);
+			
 		}
 	}
 
@@ -23,7 +23,7 @@ public class GroundTrap: MonoBehaviour
 		{
 			if (away)
 			{
-				awayspeed += Time.deltaTime/2;
+				awayspeed += Time.deltaTime;
 				transform.position = new Vector3 (transform.position.x, transform.position.y - awayspeed,
 					transform.position.z);
 				
@@ -32,4 +32,3 @@ public class GroundTrap: MonoBehaviour
 		
 	}
 
-//scriptutorialStuartSpence
